@@ -1,4 +1,5 @@
 # Python code to convert an image to ASCII image.
+# To run ascii.py, use the command python3 ascii.py --file <!img path> --cols <!num>
 import sys
 import random
 import argparse
